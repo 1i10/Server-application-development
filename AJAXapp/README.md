@@ -7,5 +7,5 @@
 * Thymeleaf;
 * JQuery.  
   
-Приложение, по виду, идентично приложению [CarsSelling](https://github.com/1i10/Server-application-development/blob/master/CarsSelling)  
+Приложение, по виду, идентично приложению [CarsSelling](https://github.com/1i10/Server-application-development/tree/main/CarsSelling#Примеры)  
 
