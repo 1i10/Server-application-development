@@ -5,16 +5,16 @@
   
 БД имеет одну таблицу «CarsSelling», которая хранит информацию о машинах (код, производитель, модель, цвет, коробка передач, тип кузова, стоимость).  
 
-*Структура таблицы "CarsSelling"* 
-<img src="https://github.com/1i10/Server-application-development/blob/master/Examples/Structure.png" width="600" height="300" />
+*Структура таблицы "CarsSelling"*  
+<img src="https://github.com/1i10/Server-application-development/blob/main/Examples/Structure.png" width="600" height="250" />
 
 <a name="Structure"><h2>Структура репозитория</h2></a>  
    
- * [*CarsSelling*](https://github.com/1i10/Server-application-development/blob/master/CarsSelling) - разработка серверного приложения с использованием сервлетов;
- * [*CarsSellingRESTjdbc*](https://github.com/1i10/Server-application-development/blob/master/CarsSellingRESTjdbc) - разработка ресурса REST сервиса;
- * [*AJAXapp*](https://github.com/1i10/Server-application-development/blob/master/AJAXapp) - разработка простого AJAX приложения Spring;
- * [*CarsSellingREST*](https://github.com/1i10/Server-application-development/blob/master/CarsSellingREST) - разработка приложения с использованием Hibernate;
- * [*Examples*](https://github.com/1i10/Server-application-development/blob/master/Examples) - скриншоты с примерами.
+ * [*CarsSelling*](https://github.com/1i10/Server-application-development/tree/main/CarsSelling) - разработка серверного приложения с использованием сервлетов;
+ * [*CarsSellingRESTjdbc*](https://github.com/1i10/Server-application-development/tree/main/CarsSellingRESTjdbc) - разработка ресурса REST сервиса;
+ * [*AJAXapp*](https://github.com/1i10/Server-application-development/tree/main/AJAXapp) - разработка простого AJAX приложения Spring;
+ * [*CarsSellingREST*](https://github.com/1i10/Server-application-development/tree/main/CarsSellingREST) - разработка приложения с использованием Hibernate;
+ * [*Examples*](https://github.com/1i10/Server-application-development/tree/main/Examples) - скриншоты с примерами.
    
 <a name="Materials"><h2>Вспомогательное чтиво для настройки и прочее</h2></a>  
   
